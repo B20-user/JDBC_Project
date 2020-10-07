@@ -15,7 +15,9 @@ public class EU3_Practice {
             // click on compare
         // create a pull request (PR)
  
-             // to merge your change  
+             // to merge your change
+
+        System.out.println("Awkhdhdskare");
     }
 
 }
