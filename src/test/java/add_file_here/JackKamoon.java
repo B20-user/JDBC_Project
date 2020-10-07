@@ -7,7 +7,7 @@ public class JackKamoon {
     //    Akbar.akbar(putEffort).eventually("GitHub is done");
 
     //we have added one new branch called UserStory_newBranch
-    //this is tthe second line of the change
+    //this is the second line of the change
 
     // adding more changes,
 
