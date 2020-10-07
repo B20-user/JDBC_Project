@@ -14,7 +14,12 @@ public class nebuladClass {
 
         /*dsada siofas
         df
-                as fö
+                as föwafrwer a
+                aw
+                d
+                das
+                asd
+
                         asf
 */
     }
