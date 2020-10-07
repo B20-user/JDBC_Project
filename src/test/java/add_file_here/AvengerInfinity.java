@@ -10,6 +10,8 @@ public class AvengerInfinity {
 
         //  Adding third one
 
+        System.out.println("Last One");
+
     }
 
 }
