@@ -9,6 +9,8 @@ public class SampleFile {
         System.out.println("Everyone acts according to his own character");
 
         System.out.println("some new features");
+
+        System.out.println("add new one");
     }
 
 }
