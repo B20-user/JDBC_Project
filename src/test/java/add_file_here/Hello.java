@@ -10,7 +10,6 @@ public class Hello {
         //from the your Github repo
         //click on compare
         //create  pull request
-        //
 
         System.out.println("Keep calm and continue testing :)");
 
