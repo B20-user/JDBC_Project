@@ -2,7 +2,10 @@ package add_file_here;
 
 public class HelloAgain {
 
-    // practice continue
-    // good job
+    public static void main(String[] args) {
+        // practice continue
+        // good job
+
+    }
 
 }
