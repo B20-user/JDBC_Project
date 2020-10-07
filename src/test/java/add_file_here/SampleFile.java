@@ -7,6 +7,8 @@ public class SampleFile {
         System.out.println("Awesome stuff here");
 
         System.out.println("Everyone acts according to his own character");
+
+        System.out.println("some new features");
     }
 
 }
