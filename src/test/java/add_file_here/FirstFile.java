@@ -6,7 +6,11 @@ public class FirstFile {
 
 
         for (int i=0;i<5;i++){
-            System.out.println("This is the first class. Ready to go...");
+            System.out.print("This is the first class. Ready to go...");
+            for (int j = 0;j<3; j++){
+                System.out.print("GitHub ");
+            }
+            System.out.println();
         }
     }
 }
