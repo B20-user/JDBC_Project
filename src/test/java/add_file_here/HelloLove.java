@@ -5,5 +5,7 @@ public class HelloLove {
         System.out.println("Hello My love");
         // why adding line
         // is it confusing
+        System.out.println("U are beautiful ");
+        System.out.println("It is hard to tell ");
     }
 }
