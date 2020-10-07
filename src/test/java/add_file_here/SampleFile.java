@@ -6,6 +6,8 @@ public class SampleFile {
 
         System.out.println("Awesome stuff here");
 
+        // How to see the new branch in history window
+
     }
 
 }
