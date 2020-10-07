@@ -6,7 +6,10 @@ public class EU3_Practice {
 
         System.out.println("Awesome stuff here");
 
-   // hello sir
+        // hello Sir
+
+        // https://git-school.github.io/visualizing-git/
+        // to work on user story 123 without affecting master
 
 
 
