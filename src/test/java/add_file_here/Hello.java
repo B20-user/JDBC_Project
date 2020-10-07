@@ -7,5 +7,10 @@ public class Hello {
         System.out.println("Hello World!");
         //commit then push it with a message
         //observe the change
+        //from the your Github repo
+        //click on compare
+        //create  pull request
+        //
+
     }
 }
