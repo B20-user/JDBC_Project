@@ -7,6 +7,6 @@ public class Hello {
         //we have added one new branch called us123
         // to work on user story 123 without affecting master
 
-        // adding more changes here so i can have
+        // adding more changes here so i can have more history
     }
 }
