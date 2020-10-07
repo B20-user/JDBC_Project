@@ -8,5 +8,7 @@ public class NewSampleFile {
         //master - default branch!!
 
         //adding more changes so I can have more history
+
+        //correcting the typo
     }
 }
