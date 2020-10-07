@@ -6,9 +6,7 @@ public class Avengerinfinity {
 
         // add four changes and commit with 4 separate commit messages
 
-        int n=1;
-        if(n<10){
-            System.out.println("Try again");
-        }
+        //Codes have problems
+
     }
 }
