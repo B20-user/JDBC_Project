@@ -6,6 +6,9 @@ public class SampleFile {
 
         System.out.println("Awesome stuff here");
 
+        System.out.println("I am practicing IntelliJ ");
+        System.out.println("I am practicing Git github ");
+
     }
 
 }
