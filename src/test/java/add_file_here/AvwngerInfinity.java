@@ -6,5 +6,8 @@ public class AvwngerInfinity {
         //add for changes and commit with 4 seperate commit message
 
         //adding more info on nebula
+        //iron man, thor, hulk
+        //loks like we dont have much avenger fans?
+        //justice league fan maybe?
     }
 }
