@@ -12,3 +12,7 @@ public class someChanges {
     //create pull request
     //
 }
+
+//to merge your change
+
+//we have one new branch called 123
