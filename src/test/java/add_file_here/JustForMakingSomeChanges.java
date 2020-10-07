@@ -4,7 +4,7 @@ public class JustForMakingSomeChanges {
 
     public static void main(String[] args) {
 
-        System.out.println("Making some changesss.");
+        System.out.println("Making some changes.");
 
     }
 
