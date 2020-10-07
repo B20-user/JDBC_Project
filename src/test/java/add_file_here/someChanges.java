@@ -6,4 +6,9 @@ public class someChanges {
     }
 
     //made some changes for cloning
+
+    //push it to git hub and go to github abd observe the change witht he original one
+    //compare it with original
+    //create pull request
+    //
 }
