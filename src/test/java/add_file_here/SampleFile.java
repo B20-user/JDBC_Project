@@ -6,6 +6,8 @@ public class SampleFile {
 
         System.out.println("Awesome stuff here");
 
+        // I have deleted my folder
+
     }
 
 }
