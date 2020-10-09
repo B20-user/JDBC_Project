@@ -3,6 +3,12 @@ package add_file_here;
 public class EU3_Practice {
 
 
+    public static void main(String[] args) {
+        System.out.println("learning 'open a pull request'");
+
+    }
+
+
         System.out.println("EU3 is opening pull request");
 
         System.out.println("This course seems to be in the correct speed!");
@@ -25,5 +31,6 @@ public class EU3_Practice {
 
         // adding more changes here so I can have more history
     }
+
 
 }
