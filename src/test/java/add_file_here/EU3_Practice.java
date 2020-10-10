@@ -7,6 +7,8 @@ public class EU3_Practice {
 
         System.out.println("Awesome stuff here");
         System.out.println("EU3 is opening pull request");
+
+        System.out.println("Some code,Some code");
         // commit your change
         //  with nice commit message
         // push it back to the github
