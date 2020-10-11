@@ -16,6 +16,8 @@ public class AkbarClassIsGreat {
     public static void main(String[] args) {
 
     }
+    //fixed typo form chnages to changes
+    //gpglhğl
 
 
 }
