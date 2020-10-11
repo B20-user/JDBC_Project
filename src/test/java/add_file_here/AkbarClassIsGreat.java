@@ -10,6 +10,12 @@ public class AkbarClassIsGreat {
     //more changes
     //fixed typo form chnages to changes
     //gpglhğl
+    //more changes
+    //fixed typo form chnages to changes
+    //gpglhğl
+    public static void main(String[] args) {
+
+    }
 
 
 }
