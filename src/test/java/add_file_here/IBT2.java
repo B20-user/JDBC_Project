@@ -7,6 +7,7 @@ public class IBT2 {
         // add four changes and commit with 4 separate commit msg.
 
         System.out.println("Change 1");
+        System.out.println("Change 2");
 
 
 
