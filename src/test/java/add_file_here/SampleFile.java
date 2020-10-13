@@ -5,6 +5,13 @@ public class SampleFile {
     public static void main(String[] args) {
 
         System.out.println("Awesome stuff here");
+        //CHANGES have been made---BE AWARE
+
+        // commiting again
+
+        //change the history
+
+        //class should be dismissed
 
         System.out.println("Even better stuff after");
 
