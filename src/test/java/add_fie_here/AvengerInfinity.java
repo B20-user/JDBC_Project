@@ -24,6 +24,7 @@ public class AvengerInfinity {
 //now you have option to merge your origin/feature1
 //into the master
 //now pull the changes into your local master branch
+        //ad more changes and push to github
     }
 
 
