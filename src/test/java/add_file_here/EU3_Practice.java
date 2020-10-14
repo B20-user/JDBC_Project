@@ -23,6 +23,9 @@ public class EU3_Practice {
         // adding more changes here so I can have more history,
 
         // I have made some changes
+
+        // We have added new branch as future-b
+        // to work on future-b without affecting master
     }
 
 }
