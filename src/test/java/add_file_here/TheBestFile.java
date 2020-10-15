@@ -8,6 +8,9 @@ public class TheBestFile {
         System.out.println("I do not know what I need to write?");
         System.out.println("what is origin ?");
 
+        System.out.println("Avesome is the most popular word in this class");
+        System.out.println("Some random words: buy sell and");
+
 
 
 
