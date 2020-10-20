@@ -10,5 +10,8 @@ public class SampleFile {
         //we are awesome
         //adding more chnges here so i can have more hanges
         //again again and again chnges
+
+        System.out.println("ibrahim123 degisiklikleri");
+        System.out.println("ekleme yaptim");
     }
 }
