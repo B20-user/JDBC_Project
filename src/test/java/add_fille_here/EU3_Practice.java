@@ -19,6 +19,9 @@ public class EU3_Practice {
         System.out.println("Eu3 is opining  pull request");
         //fskaofkasopfkasopkf
 
+        System.out.println("Eu3 is opining  pull request");
+        System.out.println("Eu3 is opining  pull request");
+
     }
 
 }
