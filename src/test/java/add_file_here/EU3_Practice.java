@@ -11,5 +11,7 @@ public class EU3_Practice {
 
         //jnlk;gkb'plgf'bl[gf;fdcvghjhklhghdfghgjkj
 
+        //vhlkk;ljjkhgkjjjjkhkjhkljkl
+
     }
 }
