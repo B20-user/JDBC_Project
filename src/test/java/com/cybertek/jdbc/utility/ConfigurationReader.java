@@ -10,6 +10,7 @@ public class ConfigurationReader {
         try (FileInputStream fileInputStream = new FileInputStream("configuration.properties")) {
             properties = new Properties();
             properties.load(fileInputStream);
+            //we sadded some more code
         } catch (IOException e) {
             e.printStackTrace();
             throw new RuntimeException("Unable to find configuration.properties file!");
