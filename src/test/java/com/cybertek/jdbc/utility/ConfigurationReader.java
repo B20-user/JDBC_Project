@@ -13,6 +13,8 @@ public class ConfigurationReader {
         } catch (IOException e) {
             e.printStackTrace();
             throw new RuntimeException("Unable to find configuration.properties file!");
+
+            //here is something wrong
         }
     }
     public static String getProperty(String key) {
