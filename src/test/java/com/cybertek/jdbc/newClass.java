@@ -5,6 +5,6 @@ public class newClass {
     //new class added
 
     public static void main(String[] args) {
-        System.out.println("New class added");
+        System.out.println("main method by nabula");
     }
 }
