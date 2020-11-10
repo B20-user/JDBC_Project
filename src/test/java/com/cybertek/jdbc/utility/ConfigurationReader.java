@@ -17,7 +17,7 @@ public class ConfigurationReader {
             //here is something wrong
         }
     }
-    public static String getProperty(String key) {
-        return properties.getProperty(key);
-    }
+//    public static String getProperty(String key) {
+//        return properties.getProperty(key);
+//    }
 }
